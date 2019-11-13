@@ -4,7 +4,7 @@ Caesar.Team is a tool for businesses to store team and personal secrets. Caesar.
 
 Get started with Caesar.Team with the following guide
 
-* First of all you need to create Caesar.Team account and sign into Caesar.Team
+* \[[https://github.com/caesar-team/docs](https://github.com/caesar-team/docs)\] \(\# First of all you need to create Caesar.Team account and sign into Caesar.Team\) 
 
 {% page-ref page="create\_account.md" %}
 
