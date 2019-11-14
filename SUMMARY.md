@@ -11,5 +11,6 @@
   * [How to share items](user-documentation/sharing.md)
   * [Secure Messages](user-documentation/secure-messages.md)
   * [Encryption technology](user-documentation/encryption-technology.md)
+* [Developer documentation](developer-documentation.md)
 * [FAQ](faq.md)
 
