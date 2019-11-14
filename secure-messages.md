@@ -1,8 +1,6 @@
----
-description: Secure Message is a tool to share temporary secure data
----
-
 # Secure Messages
+
+Secure Message is a tool to share temporary secure data:
 
 * Secure messages are encrypted locally so hackers cannot access data
 * Encrypted secure messages are stored on Caesar.Team. servers until expiration date
