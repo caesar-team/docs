@@ -6,9 +6,9 @@ To separate chosen items as favorites you need to follow the steps:
 
 1. Choose the item and open it. Click on the ⭐ button
 
-![](../.gitbook/assets/fav-1.png)
+![](../../.gitbook/assets/fav-1.png)
 
 2. You can see the item in **Favorite list**
 
-![](../.gitbook/assets/fav-2.png)
+![](../../.gitbook/assets/fav-2.png)
 

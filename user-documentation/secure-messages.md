@@ -10,7 +10,7 @@ To create a new secured message you need to follow the steps:
 
 1. Open **Secure Message** \(option in the dashboard menu\)
 
-![](.gitbook/assets/sec_message-1.png)
+![](../.gitbook/assets/sec_message-1.png)
 
 
 
@@ -24,13 +24,13 @@ To create a new secured message you need to follow the steps:
 
 Click on **Create Secure Message**
 
-![](.gitbook/assets/sec_message-2.png)
+![](../.gitbook/assets/sec_message-2.png)
 
 3. As soon as the secure message is created and encrypted, you receive a link that you can share. 
 
 Do not forget to share the password as well since your recipients need it to have access to the secure message
 
-![](.gitbook/assets/sec_message-3.png)
+![](../.gitbook/assets/sec_message-3.png)
 
 
 

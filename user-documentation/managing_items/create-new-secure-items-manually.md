@@ -4,11 +4,11 @@ To add a new secure item \(login credentials or notes\) you need to follow the s
 
 1. In your dashboard choose a list \(personal or team list\), where you want to store new items
 
-![](../.gitbook/assets/new_item-1%20%281%29.png)
+![](../../.gitbook/assets/new_item-1%20%281%29.png)
 
 2. Click on **+** **button** and choose whether you want to create a new password or a new secure note
 
-![](../.gitbook/assets/new_item-2.png)
+![](../../.gitbook/assets/new_item-2.png)
 
 3.  If you want to add **a new password**:
 
@@ -20,7 +20,7 @@ To add a new secure item \(login credentials or notes\) you need to follow the s
 
 Click on **Add** to save the new password.
 
-![](../.gitbook/assets/new_item-3%20%281%29.png)
+![](../../.gitbook/assets/new_item-3%20%281%29.png)
 
 4. If you want to add **a new secure note**:
 
@@ -30,5 +30,5 @@ Click on **Add** to save the new password.
 
 Click on **Add** to save the new secure note.
 
-![](../.gitbook/assets/new_item-4%20%281%29.png)
+![](../../.gitbook/assets/new_item-4%20%281%29.png)
 
