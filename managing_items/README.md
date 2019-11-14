@@ -6,15 +6,16 @@ description: >-
 
 # How to manage items
 
-Caesar.Team allows you:
+Caesar.Team allows user to create, store and keep up-to-date sensitive information, such as login credentials and notes.
 
-{% page-ref page="create-new-secure-items-manually.md" %}
+You have to ways to add secure items \(login credentials and notes\) to Caesar.Team applications:
 
-{% page-ref page="import-secure-items-into-caesar.team.md" %}
+1. You can [create them manually](https://github.com/caesar-team/docs/blob/master/managing_items/create-new-secure-items-manually.md)
+2. You can [import](https://github.com/caesar-team/docs/blob/master/managing_items/import-secure-items-into-caesar.team.md) them via uploading a .csv file
 
-{% page-ref page="working-with-lists.md" %}
+Since you can have many secure items that you work with, it's convenient to separate the most needed items from other items. Check out how to [mark your secure items as favorite](https://github.com/caesar-team/docs/blob/master/managing_items/favorite-items.md)
 
-{% page-ref page="favorite-items.md" %}
+Since you might want to divide secure items into groups, check out [how to work with lists](https://github.com/caesar-team/docs/blob/master/managing_items/working-with-lists.md)
 
 
 
