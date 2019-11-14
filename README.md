@@ -7,21 +7,12 @@ Get started with Caesar.Team with the following guide
 * First of all you need to [create Caesar.Team account](https://github.com/caesar-team/docs/blob/master/create_account.md) and sign into Caesar.Team\) 
 * Learn how to [create and manage items](https://github.com/caesar-team/docs/tree/master/managing_items) \(login credentials and secure notes\)
 * Learn how you can share items \(login credentials and secure notes\)
-* Learn how to use secure messages
-
-{% page-ref page="secure-messages.md" %}
-
-* If you want to learn how encryption works check out
-
-{% page-ref page="encryption-technology.md" %}
+* Learn how to use [secure messages](https://github.com/caesar-team/docs/blob/master/secure-messages.md)
+* Learn how [encryption](https://github.com/caesar-team/docs/blob/master/encryption-technology.md) works
 
 
 
-
-
-Check out our Frequently Asked Questions too:
-
-{% page-ref page="faq.md" %}
+Check out our [Frequently Asked Questions](https://github.com/caesar-team/docs/blob/master/faq.md) too:
 
 
 
