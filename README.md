@@ -4,21 +4,12 @@ Caesar.Team is a tool for businesses to store team and personal secrets. Caesar.
 
 Get started with Caesar.Team with the following guide
 
-* [First of all you need to create Caesar.Team account and sign into Caesar.Team\) ](https://github.com/caesar-team/docs/blob/master/create_account.md)
+* First of all you need to [create Caesar.Team account](https://github.com/caesar-team/docs/blob/master/create_account.md) and sign into Caesar.Team\) 
+* Learn how to [create and manage items](https://github.com/caesar-team/docs/tree/master/managing_items) \(login credentials and secure notes\)
+* Learn how you can share items \(login credentials and secure notes\)
+* Learn how to use secure messages
 
-{% page-ref page="create\_account.md" %}
-
-* If you want to learn how to create and manage items \(login credentials and secure notes\) check out
-
-{% page-ref page="managing\_items/" %}
-
-* If you want to learn how you can share items check out
-
-{% page-ref page="sharing.md" %}
-
-* If you want to learn how to use secure messages check out
-
-{% page-ref page="how-to-use-secure-messages.md" %}
+{% page-ref page="secure-messages.md" %}
 
 * If you want to learn how encryption works check out
 

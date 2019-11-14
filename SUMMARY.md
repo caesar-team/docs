@@ -8,7 +8,7 @@
   * [Working with lists](managing_items/working-with-lists.md)
   * [Mark favorite items](managing_items/favorite-items.md)
 * [How to share items](sharing.md)
-* [How to use Secure Messages](how-to-use-secure-messages.md)
+* [Secure Messages](secure-messages.md)
 * [Encryption technology](encryption-technology.md)
 * [FAQ](faq.md)
 
