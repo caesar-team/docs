@@ -1,12 +1,6 @@
----
-description: >-
-  Caesar.Team allows user to create, store and keep up-to-date sensitive
-  information, such as login credentials and notes
----
-
 # How to manage items
 
-Caesar.Team allows user to create, store and keep up-to-date sensitive information, such as login credentials and notes.
+**Caesar.Team allows user to create, store and keep up-to-date sensitive information, such as login credentials and notes.**
 
 You have to ways to add secure items \(login credentials and notes\) to Caesar.Team applications:
 
