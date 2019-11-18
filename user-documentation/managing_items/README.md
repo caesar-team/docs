@@ -9,7 +9,7 @@ You have to ways to add secure items \(login credentials and notes\) to Caesar.T
 
 Since you can have many secure items that you work with, it's convenient to separate the most needed items from other items. Check out how to [mark your secure items as favorite](https://github.com/caesar-team/docs/tree/master/user-documentation/managing_items#mark-favorite-items)
 
-Since you might want to divide secure items into groups, check out [how to work with lists](https://github.com/caesar-team/docs/blob/master/managing_items/working-with-lists.md)
+Since you might want to divide secure items into groups, check out [how to work with lists](https://github.com/caesar-team/docs/tree/master/user-documentation/managing_items#working-with-lists)
 
 ## Create new secure items manually
 
