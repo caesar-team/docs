@@ -8,3 +8,5 @@
 * You can choose who you want to share with: users and/or teams
 * If somebody else shares sensitive information with you, you will receive Email notification
 
+
+
