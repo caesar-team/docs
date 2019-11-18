@@ -10,5 +10,5 @@ To separate chosen items as favorites you need to follow the steps:
 
 2. You can see the item in **Favorite list**
 
-![](../../.gitbook/assets/fav-2.png)
+![](../../.gitbook/assets/fav-2%20%281%29.png)
 
