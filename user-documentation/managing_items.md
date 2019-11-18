@@ -25,15 +25,15 @@ Caesar.Team lists are designed to separate items into groups
 
 1. To create and edit lists open **Settings**
 
-![](../../.gitbook/assets/settings.png)
+![](../.gitbook/assets/settings.png)
 
 2. Go to **Lists** and click on **Add list**
 
-![](../../.gitbook/assets/lists-1.png)
+![](../.gitbook/assets/lists-1.png)
 
 3. Set **a name** for the list and click on **Create**
 
-![](../../.gitbook/assets/lists-2.png)
+![](../.gitbook/assets/lists-2.png)
 
 ### Add and move items to lists
 
@@ -45,20 +45,20 @@ Caesar.Team lists are designed to separate items into groups
 * choose a list
 * click **Move**
 
-![](../../.gitbook/assets/move_to_list-1%20%281%29.png)
+![](../.gitbook/assets/move_to_list-1%20%281%29.png)
 
 3. You can move several items at a time
 
 * **select** several items \(ctrl + click on chosen items\) and click **Move**
 
-![](../../.gitbook/assets/move_to_list-2.png)
+![](../.gitbook/assets/move_to_list-2.png)
 
 * choose whether you want to move to personal items or choose a team
 * choose a list
 * check your selected items \(you can remove unwanted items\)
 * click **Move**
 
-![](../../.gitbook/assets/move_to_list-3.png)
+![](../.gitbook/assets/move_to_list-3.png)
 
 \*\*\*\*
 
@@ -70,9 +70,9 @@ To separate chosen items as favorites you need to follow the steps:
 
 1. Choose the item and open it. Click on the ⭐ button
 
-![](../../.gitbook/assets/fav-1%20%281%29.png)
+![](../.gitbook/assets/fav-1%20%281%29.png)
 
 2. You can see the item in **Favorite list**
 
-![](../../.gitbook/assets/fav-2.png)
+![](../.gitbook/assets/fav-2.png)
 
