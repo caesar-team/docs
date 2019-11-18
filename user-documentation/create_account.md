@@ -29,6 +29,12 @@ To continue tick the box **I have printed or saved these codes**.
 
 ![](../.gitbook/assets/register-3.png)
 
+6. Set you master password: **you set it manually or generate it** \(press the cube icon\). 
+
+Click on **Copy Password & Continue** \(Make sure you saved you master password. If you lose it you will lose access to the application\)
+
+
+
 ##  Create a Caesar.Team account with invitation link
 
 1. If you are not i
