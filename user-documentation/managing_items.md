@@ -5,11 +5,11 @@
 You have to ways to add secure items \(login credentials and notes\) to Caesar.Team applications:
 
 1. You can [create them manually](https://github.com/caesar-team/docs/blob/master/user-documentation/managing_items.md#create-new-secure-items-manually)
-2. You can [import](https://github.com/caesar-team/docs/tree/master/user-documentation/managing_items#import-secure-items-into-caesarteam) them via uploading a .csv file
+2. You can [import](https://github.com/caesar-team/docs/blob/master/user-documentation/managing_items.md#import-secure-items-into-caesarteam) them via uploading a .csv file
 
-Since you can have many secure items that you work with, it's convenient to separate the most needed items from other items. Check out how to [mark your secure items as favorite](https://github.com/caesar-team/docs/tree/master/user-documentation/managing_items#mark-favorite-items)
+Since you can have many secure items that you work with, it's convenient to separate the most needed items from other items. Check out how to [mark your secure items as favorite](https://github.com/caesar-team/docs/blob/master/user-documentation/managing_items.md#mark-favorite-items)
 
-Since you might want to divide secure items into groups, check out [how to work with lists](https://github.com/caesar-team/docs/tree/master/user-documentation/managing_items#working-with-lists)
+Since you might want to divide secure items into groups, check out [how to work with lists](https://github.com/caesar-team/docs/blob/master/user-documentation/managing_items.md#working-with-lists)
 
 ## Create new secure items manually
 
@@ -44,8 +44,6 @@ Click on **Add** to save the new password.
 Click on **Add** to save the new secure note.
 
 ![](../.gitbook/assets/new_item-4%20%281%29.png)
-
-а
 
 ## Import secure items into Caesar.Team
 
@@ -117,8 +115,6 @@ Caesar.Team lists are designed to separate items into groups
 * click **Move**
 
 ![](../.gitbook/assets/move_to_list-3.png)
-
-\*\*\*\*
 
 ## Mark favorite items
 
