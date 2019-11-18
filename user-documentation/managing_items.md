@@ -4,7 +4,7 @@
 
 You have to ways to add secure items \(login credentials and notes\) to Caesar.Team applications:
 
-1. You can [create them manually](https://github.com/caesar-team/docs/tree/master/user-documentation/managing_items#create-new-secure-items-manually)
+1. You can [create them manually](https://github.com/caesar-team/docs/blob/master/user-documentation/managing_items.md#create-new-secure-items-manually)
 2. You can [import](https://github.com/caesar-team/docs/tree/master/user-documentation/managing_items#import-secure-items-into-caesarteam) them via uploading a .csv file
 
 Since you can have many secure items that you work with, it's convenient to separate the most needed items from other items. Check out how to [mark your secure items as favorite](https://github.com/caesar-team/docs/tree/master/user-documentation/managing_items#mark-favorite-items)
@@ -15,7 +15,65 @@ Since you might want to divide secure items into groups, check out [how to work 
 
 To add a new secure item \(login credentials or notes\) you need to follow the steps: 
 
+1. In your dashboard choose a list \(personal or team list\), where you want to store new items
+
+![](../.gitbook/assets/new_item-1%20%281%29.png)
+
+2. Click on **+** **button** and choose whether you want to create a new password or a new secure note
+
+![](../.gitbook/assets/new_item-2.png)
+
+3.  If you want to add **a new password**:
+
+1. You have to set **a title**
+2. You have to fill in **a login**
+3. You have to fill in **a password**
+4. You can **add notes**
+5. You can **add attachments** \(one attachment cannot be more than 256 kb; all attachments cannot be more than 5 mb\)
+
+Click on **Add** to save the new password.
+
+![](../.gitbook/assets/new_item-3%20%281%29.png)
+
+4. If you want to add **a new secure note**:
+
+1. You have to set **a title**
+2. You can **add notes**
+3. You can **add attachments** \(one attachment cannot be more than 256 kb; all attachments cannot be more than 5 mb\)
+
+Click on **Add** to save the new secure note.
+
+![](../.gitbook/assets/new_item-4%20%281%29.png)
+
+а
+
 ## Import secure items into Caesar.Team
+
+To import secure items \(login credentials or notes\) you need to follow the steps: 
+
+1. Open **Settings**
+
+![](../.gitbook/assets/settings%20%282%29.png)
+
+2. Then go to **Import**, where you need to **upload you .csv** 
+
+![](../.gitbook/assets/import1.png)
+
+3. Match Caesar.Team columns with columns in your .csv file and press **Submit**
+
+![](../.gitbook/assets/import2%20%281%29.png)
+
+4. You can see a list of items to be uploaded:
+
+1. You can un-check items if you do not want to upload them
+2. You can change the type of item: from password to secure note
+3. You can choose team or list in which you want to upload the items
+
+![](../.gitbook/assets/import3%20%281%29.png)
+
+5. You will see new items in a chosen list as soon as importing is done
+
+![](../.gitbook/assets/image.png)
 
 ## Working with lists
 
