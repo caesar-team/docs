@@ -8,13 +8,30 @@ Caesar.Team employs highest standard encryption algorithms in order to protect d
 
 Caesar.Team run encryption for every action made by user:
 
-* When a user creates login credentials or notes
-* When a user shares login credentials or notes \(via Caesar.Team or via anonymous links\)
-* When a user shares temporary data
+* When a user [creates login credentials or notes](https://github.com/caesar-team/docs/blob/master/user-documentation/encryption-technology.md#story-1-caesarteam-user-james-creates-a-secret)
+* When a user shares login credentials or notes \([via Caesar.Team](https://github.com/caesar-team/docs/blob/master/user-documentation/encryption-technology.md#story-2-caesarteam-user-james-shares-a-secret-with-caesarteam-user-andrew) or [via anonymous links](https://github.com/caesar-team/docs/blob/master/user-documentation/encryption-technology.md#story-3-caesarteam-user-james-shares-a-secret-via-an-anonymous-link)\)
+* When a user [shares temporary data](https://github.com/caesar-team/docs/blob/master/user-documentation/encryption-technology.md#story-4-caesarteam-user-james-shares-a-temporary-secret)
 
 ### **Story 1: Caesar.Team user James creates a secret**
 
+1. When James creates a secret Caesar.Team converts the object \(including login credentials, notes and attachments\) to a string.
+2. Then the string is encrypted with James’ 4096-bit RSA public key using AES-256 algorithm.
+3. After the string is encrypted it is sent to Caesar.Team servers where the encrypted string is being stored.
+4. To view an item James decrypts the encrypted string with his 4096-bit RSA private key using AES-256 algorithm
+
 ### **Story 2: Caesar.Team user James shares a secret with Caesar.Team user Andrew**
+
+![](../.gitbook/assets/encrypt1.png)
+
+1. James chooses a secret to share
+2. James chooses Andrew as a recipient
+3. Caesar. Team creates a copy of the secret for Andrew and converts it to a string
+4. Caesar.Team obtains Andrew’s 4096-bit RSA public key
+5. Caesar.Team encrypts the string with Andrew’s 4096-bit RSA public key using AES-256 algorithm
+6. Caesar.Team sends encrypted data to servers
+7. Andrew logs into Caesar.Team and accepts the shared secret
+8. Andrew decrypts the secret with his 4096-bit RSA private key using AES-256 algorithm
+9. Andrew retrieves the data from the secret
 
 ### **Story 3: Caesar.Team user James shares a secret via an anonymous link**
 
