@@ -11,5 +11,13 @@ Since you can have many secure items that you work with, it's convenient to sepa
 
 Since you might want to divide secure items into groups, check out [how to work with lists](https://github.com/caesar-team/docs/blob/master/managing_items/working-with-lists.md)
 
+## Create new secure items manually
 
+To add a new secure item \(login credentials or notes\) you need to follow the steps: 
+
+## Import secure items into Caesar.Team
+
+## Working with lists
+
+## Mark favorite items
 
