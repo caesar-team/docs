@@ -12,5 +12,14 @@
 
 ## Sharing via anonymous links
 
+You share your items \(login credentials and secure notes\) with anyone using an anonymous link. 
 
+1. As you can share only one item at a time via, please choose an item you want to share and open it
+2. Click on the **+** button 
+
+![](../.gitbook/assets/share-1.png)
+
+| previous | next |
+| :--- | :--- |
+| [Learn how to manage your items](https://github.com/caesar-team/docs/blob/master/user-documentation/managing_items.md#how-to-manage-items) | [Learn how to use secure messages](https://github.com/caesar-team/docs/blob/master/user-documentation/secure-messages.md) |
 
