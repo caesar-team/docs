@@ -105,7 +105,7 @@ Caesar.Team lists are designed to separate items into groups
 
 3. You can move several items at a time
 
-* **select** several items \(ctrl + click on chosen items\) and click **Move**
+* **Select** several items \(ctrl + click on chosen items\) and click on **Move**
 
 ![](../.gitbook/assets/move_to_list-2.png)
 

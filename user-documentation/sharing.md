@@ -44,13 +44,23 @@ Please note that you can share [one item](https://github.com/caesar-team/docs/bl
 
 5. Click on **Done** to share the item with chosen recipients
 
-6. As soon as the item is shared, you can see it 
+6. As soon as the item is shared, you can see final recipients and a number of them
 
 ![](../.gitbook/assets/share-7.png)
 
 
 
 ### Share several items
+
+1. **Select** several items \(ctrl + click on chosen items\) and click on **Share** icon
+
+![](../.gitbook/assets/share-8.png)
+
+2. Now you can select recipients as [described above](https://github.com/caesar-team/docs/blob/master/user-documentation/sharing.md#share-1-item)
+
+3. As soon as the items are shared, you can see final recipients and a number of them for each item
+
+![](../.gitbook/assets/share-9.png)
 
 ## Sharing via anonymous links
 
