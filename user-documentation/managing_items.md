@@ -11,7 +11,7 @@ Since you can have many secure items that you work with, it's convenient to sepa
 
 Since you might want to divide secure items into groups, check out [how to work with lists](https://github.com/caesar-team/docs/blob/master/user-documentation/managing_items.md#working-with-lists)
 
-Since your items might become out-of-date Caesar.Team provides you a tool to update and remove items
+Since your items might become out-of-date Caesar.Team provides you a tool to [update](https://github.com/caesar-team/docs/blob/master/user-documentation/managing_items.md#update-items) and [remove](https://github.com/caesar-team/docs/blob/master/user-documentation/managing_items.md#remove-items) items
 
 ## Create new secure items manually
 
@@ -134,5 +134,37 @@ To separate chosen items as favorites you need to follow the steps:
 
 ## Update items
 
+1. **Open the item** and click on **Edit**
+
+![](../.gitbook/assets/update-1.png)
+
+2. ****Make your changes and click on **Update** \(if you do not want to save changes, click on **Cancel**\) 
+
+![](../.gitbook/assets/update-2.png)
+
+3. If you update a shared item, recipients will get the update and can accept it or decline it
+
+![](../.gitbook/assets/update-3.png)
+
 ## Remove items
+
+You can remove one item or several items at a time
+
+1. **Open the item** and click on **Remove**
+
+![](../.gitbook/assets/remove-1.png)
+
+2. Or **select several items** and click on **Remove** icon
+
+![](../.gitbook/assets/remove-3.png)
+
+3. **Confirm** the removing by clicking on Remove or **cancel** removing by clicking on Cancel
+
+![](../.gitbook/assets/remove-2.png)
+
+4. You can see all removed items in the **Trash**, where you can restore items by clicking on **Restore** or remove them for good by clicking on **Remove**
+
+![](../.gitbook/assets/remove-4.png)
+
+
 
