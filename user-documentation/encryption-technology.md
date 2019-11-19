@@ -33,9 +33,7 @@ Caesar.Team run encryption for every action made by user:
 8. Andrew decrypts the secret with his 4096-bit RSA private key using AES-256 algorithm
 9. Andrew retrieves the data from the secret
 
-### **Story 3: Caesar.Team user James shares a secret via an anonymous link**
-
-### **Story 4: Caesar.Team user James shares a temporary secret**
+### **Story 3: Caesar.Team user James shares a temporary secret**
 
 1. James creates a temporary secret, so called “secure message”:
 
