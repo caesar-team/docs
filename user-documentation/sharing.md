@@ -10,6 +10,18 @@
 
 ## Sharing within the Caesar.Team application
 
+You share your items \(login credentials and secure notes\) within the Caesar.Team:
+
+* with Caesar.Team users
+* with Caesar.Team teams
+* with people outside of the Caesar.Team application
+
+Note that you can share one item or several items at a time.
+
+### Share 1 item
+
+### Share several items
+
 ## Sharing via anonymous links
 
 You share your items \(login credentials and secure notes\) with anyone using an anonymous link. 
@@ -19,7 +31,18 @@ You share your items \(login credentials and secure notes\) with anyone using an
 
 ![](../.gitbook/assets/share-1.png)
 
-| previous | next |
-| :--- | :--- |
-| [Learn how to manage your items](https://github.com/caesar-team/docs/blob/master/user-documentation/managing_items.md#how-to-manage-items) | [Learn how to use secure messages](https://github.com/caesar-team/docs/blob/master/user-documentation/secure-messages.md) |
+3. In the pop-up use toggle to generate a link \(Note, that it might take some time\)
+
+![](../.gitbook/assets/share-2.png)
+
+4. As soon as the link is generated:
+
+* you can generate an other link
+* you can copy the link to share
+
+Click on **Done** when you have a copied link
+
+![](../.gitbook/assets/share-3.png)
+
+
 
