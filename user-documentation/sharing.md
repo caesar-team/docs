@@ -16,9 +16,39 @@ You share your items \(login credentials and secure notes\) within the Caesar.Te
 * with Caesar.Team teams
 * with people outside of the Caesar.Team application
 
-Note that you can share one item or several items at a time.
+Please note that you can share [one item](https://github.com/caesar-team/docs/blob/master/user-documentation/sharing.md#share-1-item) or [several items](https://github.com/caesar-team/docs/blob/master/user-documentation/sharing.md#share-several-items) at a time. 
 
 ### Share 1 item
+
+1. **Open the item** you want to share and click on **the + button** 
+
+![](../.gitbook/assets/share-1.png)
+
+2. You can add users as recipients:
+
+* **Enter emails** of recipients 
+* To add a recipient click on **the + button**
+
+![](../.gitbook/assets/share-4.png)
+
+3. You can see a list of recipients:
+
+* You can remove a recipient from the list by clicking on the X button
+* You can see recipient that are not Caesar.Team users - they are marked with ! sign
+
+![](../.gitbook/assets/share-5.png)
+
+4. You can add teams by clicking on a team icon
+
+![](../.gitbook/assets/share-6.png)
+
+5. Click on **Done** to share the item with chosen recipients
+
+6. As soon as the item is shared, you can see it 
+
+![](../.gitbook/assets/share-7.png)
+
+
 
 ### Share several items
 
@@ -26,10 +56,11 @@ Note that you can share one item or several items at a time.
 
 You share your items \(login credentials and secure notes\) with anyone using an anonymous link. 
 
-1. As you can share only one item at a time via, please choose an item you want to share and open it
-2. Click on the **+** button 
+Note that you can share only one item at a time via an anonymous link
 
-![](../.gitbook/assets/share-1.png)
+1. **Open the item** you want to share and click on the **+** button 
+
+![](../.gitbook/assets/share-1%20%281%29.png)
 
 3. In the pop-up use toggle to generate a link \(Note, that it might take some time\)
 
