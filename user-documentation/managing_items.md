@@ -11,6 +11,8 @@ Since you can have many secure items that you work with, it's convenient to sepa
 
 Since you might want to divide secure items into groups, check out [how to work with lists](https://github.com/caesar-team/docs/blob/master/user-documentation/managing_items.md#working-with-lists)
 
+Since your items might become out-of-date Caesar.Team provides you a tool to update and remove items
+
 ## Create new secure items manually
 
 To add a new secure item \(login credentials or notes\) you need to follow the steps: 
@@ -129,4 +131,8 @@ To separate chosen items as favorites you need to follow the steps:
 2. You can see the item in **Favorite list**
 
 ![](../.gitbook/assets/fav-2.png)
+
+## Update items
+
+## Remove items
 
