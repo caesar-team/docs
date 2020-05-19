@@ -38,7 +38,7 @@ Caesar.Team is integrated with apps that provide two-factor authentication, such
 
 ![](.gitbook/assets/caesar-flows-auth-flow%20%281%29.jpg)
 
-As displyed a user’s master password is stored locally and server stores encrypted data and encrypted keys only.
+As displayed a user’s master password is stored locally and server stores encrypted data and encrypted keys only.
 
 ## Encryption technology
 

@@ -4,6 +4,8 @@
 * [User Documentation](user_docs/README.md)
   * [How to create a Caesar.Team account](user_docs/account.md)
   * [How to manage items](user_docs/items.md)
+  * [Secure Messages](user_docs/secure_messages.md)
+  * [Encryption technology](user_docs/encryption.md)
 * [Developer documentation](dev_docs.md)
 * [White Paper](wp.md)
 * [FAQ](faq.md)
