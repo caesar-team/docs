@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Welcome to Caesar.Team!](README.md)
+* [User Documentation](user_docs.md)
+* [Developer documentation](dev_docs.md)
 * [White Paper](wp.md)
 * [create Caesar.Team account](https://github.com/caesar-team/docs/blob/master/user-documentation/create_account.md#create-caesarteam-account)
 * [create and manage items](https://github.com/caesar-team/docs/blob/master/user-documentation/managing_items.md#how-to-manage-items)
