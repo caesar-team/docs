@@ -3,26 +3,38 @@
 Secure Message is a tool to share temporary secure data:
 
 * Secure messages are encrypted locally so hackers cannot access data
-* Encrypted secure messages are stored on Caesar.Team servers until expiration date
+* Encrypted secure messages are stored on Caesar.Team servers until the expiration date
 * Number of attempts to see secure message can be limited
 
-#### To create a new secured message you need to follow the steps:
+#### This is how you can create secure messages:
 
-Open Secure Messages
+1. Open Secure Messages
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-To create a secure message you can:
+2. Add needed information and set the main characteristics
 
-1. Add **description or text note**
-2. Add **attachments** \(one attachment cannot be more than 256 kb; all attachments cannot be more than 5 mb\)
-3. Set a **number of attempts** - how many time recipients of the secure message have access to it
-4. Set **expiration period** - how long recipients of the secure message have access to it
-5. Set **your own access password** \(if you do not want to create your personal password, you can use an auto-generated password\)
+1. You can add **description or a text note**
+2. You can add **attachments** \(attachments cannot be more than 5 Mb\)
+3. You can set a **number of attempts** - how many times the secure message can be retrieved
+4. You can set **expiration period** - the time until which the secure message can be retrieved
+5. You can set **your own access password** or **you can use an auto-generated password**
 
-**SCREEN!**
+![](../.gitbook/assets/caesar-flows-page-3.jpg)
 
-After you click on the  **Create Secure Message** button and once the secure message is created and encrypted, you get the link and you can copy it as well as the password
+3. After you click on the Create Secure Message button and once the secure message is encrypted, you get the link and you can copy it as well as the password.
 
-**SCREEN!**
+![](../.gitbook/assets/image%20%2813%29.png)
+
+4. After you follow the encrypted link you will be asked to enter the password.
+
+![](../.gitbook/assets/image%20%2812%29.png)
+
+5. And finally, you can retrieve the secret!
+
+![](../.gitbook/assets/image%20%2815%29.png)
+
+
+
+
 
