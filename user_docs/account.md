@@ -52,7 +52,9 @@ If you are not a part of a company and you need access to the application, you c
 
 1. Once someone shares a secure data with you, you will receive an invitation. Click on **Join Caesar.Team** in the email to follow the link.
 
- **Screen**
+ 
+
+![](../.gitbook/assets/image%20%2816%29.png)
 
 2. You can set **Two Factor authentication** as described above.
 
