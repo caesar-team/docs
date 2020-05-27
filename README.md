@@ -5,7 +5,9 @@ Caesar.Team is a tool for businesses to store team and personal secrets. Caesar.
   
 **Make sure to check out our** [**White paper**](https://github.com/caesar-team/docs/blob/master/wp.md)**!**
 
-If you a user and want to know how to use Caesar.Team application, check out [the user guide](https://github.com/caesar-team/docs/tree/master/user_docs).
+If you are only interested in Secure Messages application, check out [this guide](https://github.com/caesar-team/docs/blob/master/user_docs/secure_messages.md#secure-messages).
+
+If you a user and want to know how to use Caesar.Team application, check out [the user guide](https://github.com/caesar-team/docs/tree/master/user_docs). 
 
 If you are a developer and want to what's inside Caesar.Team application, check out [the developer guide](https://github.com/caesar-team/docs/blob/master/developer-documentation.md).
 
