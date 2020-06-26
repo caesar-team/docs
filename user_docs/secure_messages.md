@@ -20,11 +20,14 @@ Secure Message is a tool to share temporary secure data:
 4. You can set **expiration period** - the time until which the secure message can be retrieved
 5. You can set **your own access password** or **you can use an auto-generated password**
 
-![](../.gitbook/assets/caesar-flows-page-3.jpg)
+![](../.gitbook/assets/untitled.png)
 
-3. After you click on the Create Secure Message button and once the secure message is encrypted, you get the link and you can copy it as well as the password.
+3. After you click on the Create Secure Message button and once the secure message is encrypted, you get data you can copy and share with others: 
 
-![](../.gitbook/assets/image%20%2813%29.png)
+* you can copy a passwordless link
+* or you can copy a link that requires a password and a password for the link
+
+![](../.gitbook/assets/image%20%2817%29.png)
 
 4. After you follow the encrypted link you will be asked to enter the password.
 
