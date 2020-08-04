@@ -17,7 +17,7 @@ Caesar.Team run encryption for every action made by user:
 1. When James creates a secret Caesar.Team converts the object \(including login credentials, notes and attachments\) to a string.
 2. Then the string is encrypted with James’ 4096-bit RSA public key using AES-256 algorithm.
 3. After the string is encrypted it is sent to Caesar.Team servers where the encrypted string is being stored.
-4. To view an item James decrypts the encrypted string with his 4096-bit RSA private key using AES-256 algorithm
+4. To view a secret James decrypts the encrypted string with his 4096-bit RSA private key using AES-256 algorithm
 
 ## **Story 2: Caesar.Team user James shares a secret with Caesar.Team user Andrew**
 
