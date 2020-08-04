@@ -5,7 +5,7 @@ On this page you can find information on:
 * how you can add and use [lists](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#lists)
 * how you can [add secrets](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#add-new-secrets) \(login credentials and secure notes\)
 * how you can [move ](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#how-to-move-secrets)and [share ](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#share-secrets)secrets \(login credentials and secure notes\)
-* how you can mark secrets as favorites
+* how you can mark secrets as [favorites](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#favorites)
 * how you can use [the multi-selection tool](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#multi-selection-tool)
 
 ## Lists
