@@ -5,6 +5,7 @@
   * [How to create a Caesar.Team account](user_docs/account.md)
   * [Dashboard](user_docs/dashboard.md)
   * [How to manage items](user_docs/items.md)
+  * [Settings](user_docs/settings.md)
   * [Secure Messages](user_docs/secure_messages.md)
   * [Encryption technology](user_docs/encryption.md)
 * [Developer documentation](dev_docs/README.md)
