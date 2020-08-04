@@ -1,8 +1,8 @@
 # Lists and secrets
 
-### Lists
+## Lists
 
-#### Default lists
+### Default lists
 
 At first, you have default lists \(you cannot rename or delete these lists\)
 
@@ -13,7 +13,7 @@ At first, you have default lists \(you cannot rename or delete these lists\)
 
 ![](../.gitbook/assets/image%20%2829%29.png)
 
-#### Custom lists
+### Custom lists
 
 If you want, you can add your custom list
 
@@ -27,9 +27,9 @@ If you want, you can add your custom list
 
 Done! Now you can add and manage your secrets
 
-### Working with secrets
+## Working with secrets
 
-#### Add new secrets
+### Add new secrets
 
 1. Open a list where you want to add a secret. Click on the button **Add item** which is located on top of the screen and pick what you want to add: a password or a note.
 
@@ -43,11 +43,11 @@ Done! Now you can add and manage your secrets
 
 Now you can use, move or share the secret
 
-#### How to move secrets 
+### How to move secrets 
 
 
 
-#### Share secrets
+### Share secrets
 
 
 
