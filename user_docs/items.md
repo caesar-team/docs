@@ -53,9 +53,15 @@ Now you can use, move or share the secret
 
 ### How to move secrets 
 
-If you want to learn how to move one secret at a time see the steps below. If you want to learn how to move several secrets at a time go to the section.
+If you want to learn how to move one secret at a time see the steps below. If you want to learn how to move several secrets at a time go to [the section](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#multi-selection-tool).
+
+
 
 ### Share secrets
+
+If you want to learn how to share one secret at a time see the steps below. If you want to learn how to share several secrets at a time go to [the section](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#multi-selection-tool).
+
+
 
 ### Multi-selection tool
 
