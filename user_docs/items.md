@@ -6,7 +6,7 @@ On this page you can find information on:
 * how you can [add secrets](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#add-new-secrets) \(login credentials and secure notes\)
 * how you can [move ](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#how-to-move-secrets)and [share ](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#share-secrets)secrets \(login credentials and secure notes\)
 * how you can mark secrets as favorites
-* how you can use multi-selection tool
+* how you can use [the multi-selection tool](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#multi-selection-tool)
 
 ## Lists
 
@@ -60,6 +60,12 @@ If you want to learn how to move one secret at a time see the steps below. If yo
 ### Share secrets
 
 If you want to learn how to share one secret at a time see the steps below. If you want to learn how to share several secrets at a time go to [the section](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#multi-selection-tool).
+
+
+
+### Favorites
+
+You can mark secrets as favorites in Caesar.Team.
 
 
 
