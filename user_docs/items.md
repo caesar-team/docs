@@ -1,5 +1,13 @@
 # Lists and secrets
 
+On this page you can find information on:
+
+* how you can add and use [lists](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#lists)
+* how you can [add secrets](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#add-new-secrets) \(login credentials and secure notes\)
+* how you can [move ](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#how-to-move-secrets)and [share ](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#share-secrets)secrets \(login credentials and secure notes\)
+* how you can mark secrets as favorites
+* how you can use multi-selection tool
+
 ## Lists
 
 ### Default lists
@@ -45,9 +53,11 @@ Now you can use, move or share the secret
 
 ### How to move secrets 
 
-
+If you want to learn how to move one secret at a time see the steps below. If you want to learn how to move several secrets at a time go to the section.
 
 ### Share secrets
+
+### Multi-selection tool
 
 
 
