@@ -49,27 +49,84 @@ Done! Now you can add and manage your secrets
 
 3. Click on **Create** and done! 
 
+![](../.gitbook/assets/image%20%2840%29.png)
+
 Now you can use, move or share the secret
 
 ### How to move secrets 
 
 If you want to learn how to move one secret at a time see the steps below. If you want to learn how to move several secrets at a time go to [the section](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#multi-selection-tool).
 
+You can move secrets:
 
+* to a list in the current vault
+* to a list in a different vault \(both to a personal or team vault\)
+
+1. Open a secret and click on the button located on top of the secret
+
+![](../.gitbook/assets/image%20%2837%29.png)
+
+2. Now you can pick a vault and a list
+
+![](../.gitbook/assets/image%20%2839%29.png)
+
+3. Click on Accept and done! Now the secret is located in the chosen list
+
+![](../.gitbook/assets/image%20%2834%29.png)
 
 ### Share secrets
 
 If you want to learn how to share one secret at a time see the steps below. If you want to learn how to share several secrets at a time go to [the section](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#multi-selection-tool).
 
+You can share secrets:
 
+* with individuals
+* with teams
+* via an anonymously \(not available for sharing several secrets at a time\) 
 
 ### Favorites
 
-You can mark secrets as favorites in Caesar.Team.
+In each vault you have a default list called Favorites that you can use to aggregate the most needed and usable secrets.
 
+Note, that personal Favorites and team Favorites do not mix, meaning if you mark a team secret as favorite, it won't be available in personal Favorites, only in the team Favorites. 
 
+So if you want to mark a secret as favorite you need to follow the steps:
+
+1 Open a secret and click on the "star" icon located on the top.
+
+![](../.gitbook/assets/image%20%2843%29.png)
+
+2. Done! Now the secret is marked as favorite and you can see the secret marked as favorite.
+
+![](../.gitbook/assets/image%20%2836%29.png)
+
+3. And the secret is available in Favorites.
+
+![](../.gitbook/assets/image%20%2833%29.png)
+
+4. You can undo the marking by clicking on the "star" icon again.
 
 ### Multi-selection tool
+
+With the multi-selection tool you can:
+
+* share several secrets with individuals and/teams at a time
+* move several secrets to a different list or a vault 
+* delete several secrets
+
+Please, note, that you cannot select secrets from different lists. If you select secrets from one list and then move to another list, your selection will be deactivated. 
+
+1 Firstly hover over the first secret you want to select and click on the checkbox
+
+![](../.gitbook/assets/image%20%2841%29.png)
+
+2 Select other secrets on the screen by ticking the checkboxes. If you tick the checkbox on the top, then all secrets of the current list will be selected
+
+![](../.gitbook/assets/image%20%2842%29.png)
+
+3. You can see how many secrets you've picked and you can:
+
+
 
 
 
