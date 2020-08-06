@@ -106,6 +106,8 @@ So if you want to mark a secret as favorite you need to follow the steps:
 
 4. You can undo the marking by clicking on the "star" icon again.
 
+### How to delete secrets
+
 ### Multi-selection tool
 
 With the multi-selection tool you can:
@@ -125,6 +127,10 @@ Please, note, that you cannot select secrets from different lists. If you select
 ![](../.gitbook/assets/image%20%2842%29.png)
 
 3. You can see how many secrets you've picked and you can:
+
+1. move secrets, see how
+2. share secrets, see how
+3. delete secrets, see how
 
 
 
