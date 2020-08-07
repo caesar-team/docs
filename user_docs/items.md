@@ -49,7 +49,7 @@ Done! Now you can add and manage your secrets
 
 3. Click on **Create** and done! 
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 Now you can use, move or share the secret
 
@@ -64,11 +64,11 @@ You can move secrets:
 
 1. Open a secret and click on the button located on top of the secret
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 2. Now you can pick a vault and a list
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 3. Click on Accept and done! Now the secret is located in the chosen list
 
@@ -82,7 +82,33 @@ You can share secrets:
 
 * with individuals
 * with teams
-* via an anonymously \(not available for sharing several secrets at a time\) 
+* via an anonymous link \(not available for sharing several secrets at a time\) 
+
+#### Share with individuals
+
+#### Share with teams
+
+#### Share an anonymous link
+
+Please, note, you can share only one item at a time via an anonymous link.
+
+1. Open a secret and click on one of the availbale buttons to share secrets
+
+![](../.gitbook/assets/image%20%2840%29.png)
+
+2. Click on the toggle
+
+![](../.gitbook/assets/image%20%2837%29.png)
+
+3 Once an anonymous link is created you can copy it or regenerate it
+
+![](../.gitbook/assets/image%20%2846%29.png)
+
+4. A person who follows the link will see the secret and will be able to use it, i.e. open a website and login with credentials or doanload an attachment, but will not be able to change the secret
+
+![](../.gitbook/assets/image%20%2848%29.png)
+
+5. If you click on the toggle for the 2nd time, the active link will be deactivated and no one can access the secret with it.
 
 ### Favorites
 
@@ -94,7 +120,7 @@ So if you want to mark a secret as favorite you need to follow the steps:
 
 1 Open a secret and click on the "star" icon located on the top.
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 2. Done! Now the secret is marked as favorite and you can see the secret marked as favorite.
 
@@ -120,17 +146,17 @@ Please, note, that you cannot select secrets from different lists. If you select
 
 1 Firstly hover over the first secret you want to select and click on the checkbox
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 2 Select other secrets on the screen by ticking the checkboxes. If you tick the checkbox on the top, then all secrets of the current list will be selected
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 3. You can see how many secrets you've picked and you can:
 
-1. move secrets, see how
-2. share secrets, see how
-3. delete secrets, see how
+* move secrets, see [how ](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#how-to-move-secrets)\(\#2-3\)
+* share secrets, see [how](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#share-secrets) \(\#\)
+* delete secrets, see how
 
 
 
