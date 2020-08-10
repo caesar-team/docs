@@ -49,7 +49,7 @@ Done! Now you can add and manage your secrets
 
 3. Click on **Create** and done! 
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 Now you can use, move or share the secret
 
@@ -64,15 +64,15 @@ You can move secrets:
 
 1. Open a secret and click on the button located on top of the secret
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 2. Now you can pick a vault and a list
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 3. Click on Accept and done! Now the secret is located in the chosen list
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 ### Share secrets
 
@@ -93,21 +93,21 @@ You can share secrets with individuals that are domain users and with out-of-dom
 * If the text mateрs with a domain user's email - you'll see it and will be able to select a user from the list. 
 * If it's an out-of domain individual, you will need to enter the whole email address
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 2. Once you enter all emails, you'll see a list of recipients \(out of domain recipients will be marked with the "!" sign\)
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 3. After the secret is shared, you'll see it
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 4. After the secret is shared you can withdraw it from a recipient: open Share window, Invited section, and click on the minus icon near a recipient.
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
 The secret will be withdrawn and the recipient won't be able to access it any longer.
 
@@ -121,19 +121,19 @@ Please, note, you can share only one item at a time via an anonymous link.
 
 1. Open a secret and click on one of the available buttons to share secrets
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 2. Click on the toggle
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 3 Once an anonymous link is created you can copy it or regenerate it
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2854%29.png)
 
 4. A person who follows the link will see the secret and will be able to use it, i.e. open a website and login with credentials or download an attachment, but will not be able to change the secret
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 5. If you click on the toggle for the 2nd time, the active link will be deactivated and no one can access the secret with it.
 
@@ -147,19 +147,38 @@ So if you want to mark a secret as favorite you need to follow the steps:
 
 1 Open a secret and click on the "star" icon located on the top.
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2855%29.png)
 
 2. Done! Now the secret is marked as favorite and you can see the secret marked as favorite.
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 3. And the secret is available in Favorites.
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 4. You can undo the marking by clicking on the "star" icon again.
 
 ### How to delete secrets
+
+If you want to learn how to share one secret at a time see the steps below. If you want to learn how to share several secrets at a time go to [the section](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#multi-selection-tool).
+
+1. Open a secret and click on the Remove button, and confirm the action.
+
+![](../.gitbook/assets/image%20%2833%29.png)
+
+![](../.gitbook/assets/image%20%2856%29.png)
+
+2. Once you confirm it, the secret will be moved to Trash
+
+![](../.gitbook/assets/image%20%2858%29.png)
+
+3. In Trash you can restore the secret or delete it permanently:
+
+* if you restore the secret, it'll be restored in the previous list
+* if you remove the secret, you'll lose access to the secret permanently and if it's been shared or if it was a team secret then the secret will be deleted for recipients/team members as well
+
+![](../.gitbook/assets/image%20%2837%29.png)
 
 ### Multi-selection tool
 
@@ -173,17 +192,17 @@ Please, note, that you cannot select secrets from different lists. If you select
 
 1 Firstly hover over the first secret you want to select and click on the checkbox
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
 2 Select other secrets on the screen by ticking the checkboxes. If you tick the checkbox on the top, then all secrets of the current list will be selected
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 3. You can see how many secrets you've picked and you can:
 
-* move secrets, see [how ](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#how-to-move-secrets)\(\#2-3\)
-* share secrets, see [how](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#share-secrets) \(\#\)
-* delete secrets, see how
+* move secrets, see [how ](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#how-to-move-secrets)
+* share secrets, see [how](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#share-secrets) 
+* delete secrets, see [how](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#how-to-delete-secrets)
 
 
 
