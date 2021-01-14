@@ -1,6 +1,6 @@
 # Dashboard
 
-Once you are logged into Caesar.Team you'll see your dashboard and you'll see your Favorites list.
+Once you are logged into Caesar.Team you'll see your dashboard.
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 
@@ -34,7 +34,7 @@ You can use built-in secure messages in Caesar.Team, see [here ](https://github.
 
 #### Settings and logout
 
-By clicking in your username you can:
+By clicking on your username you can:
 
 * open [Settings](https://github.com/caesar-team/docs/blob/master/user_docs/settings.md#settings)
 * log out of Caesar.Team
