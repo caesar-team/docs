@@ -16,9 +16,9 @@ If your company has purchased Caesar.Team, you can create an account by yourself
 
 2. If you chose "Sign up", fill in your **Email address**, set and confirm **your account password**, click on **Sign Up**.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
-3. Enter your **email address and account password** at the sign in page and click **on Sign in**.
+3. Enter your **email address and account password** and click **on Sign in**.
 
 4. You will be redirected to the **Two Factor Authentication \(2FA\)** step. Please follow the instruction that you see on the screen. If you do not want to go through 2FA every time you sign in, tick the box **Remember me**.
 
@@ -36,21 +36,21 @@ To continue tick the box **I have printed or saved these codes**.
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-Click on **Copy Password & Continue** \(Make sure you remembered you master password; if you lose it you will lose access to the application\).
+Click on **Copy Password & Continue** \(Make sure you saved your master password someplace safe as you lose it you will lose access to the application\).
 
 7. Confirm the master password and click on **Confirm**
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
-8. ****You will be redirected to the dashboard and you can work with your sensitive information now!
+8. ****You will be redirected to the dashboard, and you can work with your sensitive data now!
 
-**SCREEN!**
+![](../.gitbook/assets/image%20%2863%29.png)
 
-## Create a Caesar.Team account with invitation link
+## Create a Caesar.Team account with an invitation link
 
-If you are not a part of a company and you need access to the application, you can sign up via an invitation link \(you can receive it, if someone shares a secure data with you\).
+If you are not a part of a company and you need access to the application, you can sign up via an invitation link \(you can receive it, if someone shares sensitive data with you\).
 
-1. Once someone shares a secure data with you, you will receive an invitation. Click on **Join Caesar.Team** in the email to follow the link.
+1. Once someone shares sensitive data with you, you will receive an invitation. Click on **Join Caesar.Team** in the email.
 
  
 
@@ -58,15 +58,15 @@ If you are not a part of a company and you need access to the application, you c
 
 2. You can set **Two Factor authentication** as described above.
 
+3. You need to set your **account password** and confirm it.
+
 ![](../.gitbook/assets/image%20%2811%29.png)
 
-3. You need to set your **account password** and confirm it.
+
 
 4. You need to set your **master password** as described above.
 
-5. You have access shared with you data \(you can confirm or decline it\). Click **Start work** to enter you dashboard.
-
-![](../.gitbook/assets/image%20%2810%29.png)
+5. ****You will be redirected to the dashboard, and you can work with your sensitive data now!
 
 
 
