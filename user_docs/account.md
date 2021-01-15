@@ -16,7 +16,7 @@ If your company has purchased Caesar.Team, you can create an account by yourself
 
 2. If you chose "Sign up", fill in your **Email address**, set and confirm **your account password**, click on **Sign Up**.
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
 3. Enter your **email address and account password** and click **on Sign in**.
 
@@ -44,7 +44,7 @@ Click on **Copy Password & Continue** \(Make sure you saved your master password
 
 8. ****You will be redirected to the dashboard, and you can work with your sensitive data now!
 
-![](../.gitbook/assets/image%20%2863%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
 ## Create a Caesar.Team account with an invitation link
 
