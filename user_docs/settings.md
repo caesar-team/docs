@@ -10,6 +10,12 @@ The Settings section is designed for users:
 
 ## Teams
 
+The page is designed to:
+
+* to view and manage teams
+* to view and manage team participants
+* to mark teams as favorites \(available for domain admins only\)
+
 ## All users
 
 ![](../.gitbook/assets/image%20%2867%29.png)
