@@ -2,15 +2,11 @@
 
 Get started with Caesar.Team by creating your personal account!
 
-If your company has purchased Caesar.Team, you can [create an account by yourself](https://github.com/caesar-team/docs/blob/master/user_docs/account.md#create-a-caesarteam-account-by-yourself) using your corporate email address.
+Once your company has purchased Caesar.Team, you can [create an account by yourself](https://github.com/caesar-team/docs/blob/master/user_docs/account.md#create-a-caesarteam-account-by-yourself) using your corporate email address.
 
-If you are not a part of a company and you need access to the application, you can sign up via [an invitation link](https://github.com/caesar-team/docs/blob/master/user_docs/account.md#create-a-caesarteam-account-with-invitation-link) \(you receive it once someone shares a secure data with you\).
-
-Please go though all registration steps thoughtfully as you cannot go back to the previous steps!
+Please go through all registration steps thoughtfully as you cannot go back to the previous steps!
 
 ## Create a Caesar.Team account by yourself
-
-If your company has purchased Caesar.Team, you can create an account by yourself using your corporate email address.
 
 1. Click on **Sign up** at the login page or click on **Log in with Google** if you have a Google account.
 
