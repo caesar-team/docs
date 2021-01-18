@@ -16,7 +16,7 @@ The page is designed to:
 * to view and manage team participants
 * to mark teams as favorites \(available for domain admins only\)
 
-
+### View and manage teams and participants
 
 ## All users
 
