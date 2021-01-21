@@ -8,9 +8,6 @@
   * [Settings](user_docs/settings.md)
   * [Secure Messages](user_docs/secure_messages.md)
   * [Encryption technology](user_docs/encryption.md)
-* [Developer documentation](dev_docs/README.md)
-  * [Installation](dev_docs/installation.md)
-  * [Access permissions](dev_docs/access-permissions.md)
 * [White Paper](wp.md)
 * [FAQ](faq.md)
 
