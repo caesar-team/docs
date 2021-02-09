@@ -1,6 +1,6 @@
 # Welcome to Caesar.Team!
 
-Caesar.Team is a tool designed for businesses to store team and personal secrets. Caesar.Team users can store and keep up-to-date personal secrets as well as team secrets, users can group secrets together into lists, users can share their secrets and users can share temporary secrets.
+Caesar.Team is a tool designed for businesses to store team and personal secrets. Caesar.Team users can store and keep up-to-date personal and team secrets, users can group secrets together into lists, users can share their secrets and users can share temporary secrets.
 
 Caesar.Team is a tool designed for businesses to store team and personal secrets. Caesar.Team users can store and keep up-to-date personal secrets as well as team secrets, users can group secrets together into lists, users can share their secrets and users can share temporary secrets.
 
