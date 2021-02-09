@@ -1,15 +1,15 @@
 # White Paper
 
-Caesar.Team is a two-part open-source software: client-side and backend-side applications. Caesar.Team mission is to keep user data secure and provide reliable service to decrease the likelihood of password-related breaches.
+Caesar.Team is a two-part open-source software: client-side and backend-side applications. Caesar.Team mission is to keep sensitive data secure and provide reliable service to decrease the likelihood of password-related breaches. Caesar.Team is a tool designed for businesses to store team and personal secrets. 
 
 Caesar.Team has the following features:
 
-1. Reliable access to data
-2. Client-side encryption so data between a client & a server is always encrypted and the server stores sensitive data in an encrypted format
+1. Reliable access to sensitive data
+2. Client-side encryption so sensitive data transfer between the client-side & the server-side is always encrypted and the server stores sensitive data encrypted
 3. Multi-factor authentication \(Account password, One Time Passwords, Master Password, Hardware Security Key\)
 4. Access policy establishes access rights for each user or for a team
 5. Secure sharing and access to shared data
-6. Hybrid cryptography which combines the convenience of public-key cryptography \(RSA 4096-bit\) with the efficiency of a symmetric-key \(AES-256\) cryptography and does not require the sender and receiver to share a common secret in order to communicate securely
+6. Hybrid cryptography combines the convenience of public-key cryptography \(RSA 4096-bit\) with the efficiency of a symmetric-key \(AES-256\) cryptography and does not require the sender and receiver to share a common secret in order to communicate securely
 
 Since Caesar.Team is an open-source software any developers can contribute and improve the client-side and backend-side applications to prevent possible attacks, and security threats or add new features.
 
