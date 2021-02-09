@@ -22,7 +22,7 @@ On the left-hand side of the dashboard you can see your lists, see [here](https:
 
 #### Search bar
 
-You have a search bar on top of the dashboard. If you want to find a secret start typing in the bar and you'll see secrets, which fit the request.
+You have a search bar on top of the dashboard. If you want to find a secret start typing in the bar, and you'll see secrets, which fit the request.
 
 ![](../.gitbook/assets/image%20%2831%29.png)
 
