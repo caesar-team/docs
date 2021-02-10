@@ -4,35 +4,35 @@ Get started with Caesar.Team by creating your personal account!
 
 Once your company has purchased Caesar.Team, you can [create an account by yourself](https://github.com/caesar-team/docs/blob/master/user_docs/account.md#create-a-caesarteam-account-by-yourself) using your corporate email address.
 
-Please go through all registration steps thoughtfully as you cannot go back to the previous steps!
+Please go through all registration steps thoughtfully!
 
 ## Create a Caesar.Team account by yourself
 
 1. Click on **Sign up** at the login page or click on **Log in with Google** if you have a Google account.
 
-2. If you chose "Sign up", fill in your **Email address**, set and confirm **your account password**, click on **Sign Up**.
+2. If you chose the **Sign up** button, fill in your **Email address**, set **your account password**, ****and confirm it, then click on **Sign Up**.
 
 ![](../.gitbook/assets/image%20%2863%29.png)
 
-3. Enter your **email address and account password** and click **on Sign in**.
+3. To proceed with the registration you have to follow the link in the registration email. After you follow the link to the **Sign in** page, enter your **email address and account password** and click **on Sign in**.
 
-4. You will be redirected to the **Two Factor Authentication \(2FA\)** step. Please follow the instruction that you see on the screen. If you do not want to go through 2FA every time you sign in, tick the box **Remember me**.
+4. You will be redirected to the **Two Factor Authentication \(2FA\)** step. Please follow instructions that you see on the screen. If you do not want to go through 2FA every time you sign in, tick the box **Remember me**.
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-Click on **Continue** to proceed to next steps.
+Click on **Continue** to proceed to the next step.
 
-5. Make sure you have your backup codes saved or printed \(you will need them in case you lose your device\).
+5. Make sure you have the backup codes saved or printed \(you will need them in case you lose your device\).
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
-To continue tick the box **I have printed or saved these codes**.
+Tick the box **I have printed or saved these codes** to continue.
 
-6. Set you master password: **you set it manually or generate it** \(press the cube icon\).
+6. Set your master password: **you can set it manually or generate it** \(press the cube icon to generate your master password\).
 
 ![](../.gitbook/assets/image%20%283%29.png)
 
-Click on **Copy Password & Continue** \(Make sure you saved your master password someplace safe as you lose it you will lose access to the application\).
+Click on **Copy Password & Continue** \(Make sure you saved your master password someplace safe: you will not be able to access the application if you lose or forget your master password\).
 
 7. Confirm the master password and click on **Confirm**
 
