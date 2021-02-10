@@ -19,7 +19,7 @@ At first, you have default lists \(you cannot rename or delete these lists\)
 * Default - a default list in a vault where you can store your secrets
 * Trash - a list in a vault that stores your deleted items 
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 
 ### Custom lists
 
@@ -27,11 +27,11 @@ If you want, you can add your custom list
 
 1. Hover over the Lists title and click in the "+" button
 
-![](../.gitbook/assets/image%20%2897%29.png)
+![](../.gitbook/assets/image%20%28105%29.png)
 
 2. Then name your list and save it
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
 Done! Now you can add and manage your secrets
 
@@ -41,15 +41,15 @@ Done! Now you can add and manage your secrets
 
 1. Open a list where you want to add a secret. Click on the button **Add item** which is located on top of the screen and pick what you want to add: a password or a note.
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 2. Then you can enter secret's information \(i.e. login and password if you picked Password\)
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 3. Click on **Create** and done! 
 
-![](../.gitbook/assets/image%20%2890%29.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 
 Now you can use, move or share the secret
 
@@ -64,15 +64,15 @@ You can move secrets:
 
 1. Open a secret and click on the button located on top of the screen
 
-![](../.gitbook/assets/image%20%2887%29.png)
+![](../.gitbook/assets/image%20%2892%29.png)
 
 2. Now you can pick a vault and a list
 
-![](../.gitbook/assets/image%20%2873%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 3. Click on Accept and done! Now the secret is located in the chosen list
 
-![](../.gitbook/assets/image%20%2889%29.png)
+![](../.gitbook/assets/image%20%2896%29.png)
 
 ### Share and revoke secrets
 
@@ -82,28 +82,28 @@ You can share secrets with individuals that are domain users and with out-of-dom
 
 1. Click on one of the **Sharing** buttons
 
-![](../.gitbook/assets/image%20%2876%29.png)
+![](../.gitbook/assets/image%20%2877%29.png)
 
 2. Start typing in an email address:
 
 * If the text matches with a domain user's email - you'll see that and will be able to select a user from the list. 
 * If it's an out-of domain individual, you will need to enter the whole email address
 
-![](../.gitbook/assets/image%20%2875%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 3. Once you enter all emails, you'll see a list of recipients \(out of domain recipients will be marked with the "!" sign\)
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%2889%29.png)
 
 4. After the secret is shared, you'll see that
 
-![](../.gitbook/assets/image%20%2893%29.png)
+![](../.gitbook/assets/image%20%28101%29.png)
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
 
 5. After the secret is shared you can revoke it from a recipient: open the Share window \(the Invited section\), and click on the minus icon near a recipient.
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
 Access to the secret will be revoked and the recipient won't be able to access it any longer.
 
@@ -117,15 +117,15 @@ Note, that personal Favorites and team Favorites do not mix, meaning if you mark
 
 1. Open a secret and click on the "star" icon located on the top.
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2895%29.png)
 
 2. Done! Now the secret is marked as favorite, and you can see the secret marked as favorite.
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2880%29.png)
 
 3. And the secret is available in Favorites.
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 4. You can undo the marking by clicking on the "star" icon again.
 
@@ -135,20 +135,20 @@ If you want to learn how to share one secret at a time see the steps below. If y
 
 1. Open a secret and click on the Remove button, and confirm the action.
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2894%29.png)
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2883%29.png)
 
 2. Once you confirm it, the secret will be moved to Trash
 
-![](../.gitbook/assets/image%20%2858%29.png)
+![](../.gitbook/assets/image%20%2873%29.png)
 
 3. In Trash you can restore the secret or delete it permanently:
 
 * if you restore the secret, it'll be restored in the previous list
 * if you remove the secret, you'll lose access to the secret permanently and if it's been shared or if it was a team secret then the secret will be deleted for recipients/team members as well
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
 ### Multi-selection tool
 
