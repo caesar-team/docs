@@ -26,9 +26,9 @@ The page allows you to view the list of all registered users: you see their emai
 
 ## Import items
 
-You can you the feature to import your secrets to Caesar.Team. \(to do that you need to have your secrets saved in a .csf file\).
+You can you the feature to import your secrets to Caesar.Team. \(to do that you need to have your secrets saved in a .csv file\).
 
-1. Upload a .csf file
+1. Upload a .csv file
 
 ![](../.gitbook/assets/image%20%2872%29.png)
 
@@ -39,7 +39,7 @@ You can you the feature to import your secrets to Caesar.Team. \(to do that you 
 3. At the next step you can see secrets to be imported:
 
 * you can uncheck a secret \(one or all of them\) if you don't want it to be imported
-* you can change content: title, login, password, website, note, and a type of a secret
+* you can change content: title, login, password, website, note, and a type of the secret
 * you can select where you want to import secrets: a vault and a list
 
 **SCREENSHOT**
