@@ -42,9 +42,9 @@ As displayed a user’s master password is stored locally and a server stores en
 
 ## Encryption technology
 
-Caesar.Team is a tool for businesses to store team and personal secrets. Caesar.Team users can store and keep up-to-date personal secrets as well as team secrets, users can group secrets together into lists, users can share their secrets and users can share temporary secrets.
+Caesar.Team is a tool designed for businesses to store team and personal secrets. Caesar.Team users can store and keep up-to-date personal and team secrets, users can gather secrets in lists, users can share their secrets and users can share temporary secrets.
 
-Caesar.Team encryption technology prevents the ability to decrypt storage data without user's master password and private key.
+Caesar.Team encryption technology prevents the ability to decrypt storage data without the user's master password and private key.
 
 Caesar.Team uses local encrypting which means data is encrypted and decrypted locally, on the user’s machine and no data is being encrypted and decrypted on the server-side and if a hacker gets access to servers they will not be able to decrypt data and use it.
 
