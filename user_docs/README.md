@@ -12,7 +12,6 @@ Get started with Caesar.Team with the following guide:
 * See how you can [add and manage secrets](https://github.com/caesar-team/docs/blob/master/user_docs/items.md#working-with-secrets) \(login credentials and secure notes\)
 * See what the [settings](https://github.com/caesar-team/docs/blob/master/user_docs/settings.md#settings) are designed for
 * Learn how to use [secure messages](https://github.com/caesar-team/docs/blob/master/user_docs/secure_messages.md)
-* Learn how[ encryption technology](https://github.com/caesar-team/docs/blob/master/user_docs/encryption.md) works
 
  Check out our [Frequently Asked Questions](https://github.com/caesar-team/docs/blob/master/faq.md) too!
 

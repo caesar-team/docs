@@ -22,7 +22,7 @@ When a user creates their Caesar.Team account they create a master password to g
 * public and private keys are based on the user's email address
 * AES-256 \(Cipher Block Chaining\) encryption algorithm with thousands of rounds of SHA-256 is used to create public and private keys
 * a public key is used to encrypt information only a specific user can decrypt
-* a private key is paired with apublic key and is used to decrypt data and it is secured by the master password
+* a private key is paired with a public key and is used to decrypt data and it is secured by the master password
 
 Since the master password is stored locally and it is impossible to steal it. Private and public keys are stored on Caesar.Team server, they are encrypted and secured by the master password so if a hacker obtains them they cannot use them.
 

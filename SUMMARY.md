@@ -7,7 +7,6 @@
   * [Lists and secrets](user_docs/items.md)
   * [Settings](user_docs/settings.md)
   * [Secure Messages](user_docs/secure_messages.md)
-  * [Encryption technology](user_docs/encryption.md)
 * [White Paper](wp.md)
 * [FAQ](faq.md)
 
